@@ -13,7 +13,7 @@ npm install @darkkdev/dark.db
 ### Import and Initialize
 
 ```javascript
-const { Data, Driver } = require('dark.db');
+const { Data, Driver } = require('@darkkdev/dark.db');
 
 const db = new Data({ driver: new Driver('database.json') });
 ```
