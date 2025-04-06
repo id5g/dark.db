@@ -5,7 +5,7 @@ A simple JSON-based database package for Node.js, designed to provide easy key-v
 ## Installation
 
 ```sh
-npm install dark.db
+npm install @darkkdev/dark.db
 ```
 
 ## Usage
