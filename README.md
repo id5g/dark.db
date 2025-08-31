@@ -56,7 +56,7 @@ This project is licensed under the MIT License.
 
 ## Developer 
 **Github :** [**Click Here**](https://github.com/id5g)
-**Website :** [**Click Here**](https://dark-dev.netlify.app)
+**Website :** [**Click Here**](https://darkdev.us.kg)
 
 ## Source
 **Github :** [**Click Here**](https://github.com/id5g/dark.db)
